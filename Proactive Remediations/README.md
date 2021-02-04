@@ -1,6 +1,6 @@
 Ths is an aggregation of Proactive Remediations scripts.  
 
-##Set Directory ACL
+## Set Directory ACL
 
 | Title          | Discovery     | Remediation     |
 | :------------- | :----------: | -----------: |
